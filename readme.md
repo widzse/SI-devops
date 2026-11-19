@@ -7,3 +7,5 @@
 ![ScreenShot](./errors.png)
 - run the following code in the same terminal now `python3 validator.py valid.env.example` you should see this now
 ![ScreenShot](./success.png)
+
+- Thanks
