@@ -4,8 +4,8 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 # Change both constants in Lab 3, then build a DIFFERENT image.
-CODE_VERSION = "v1"
-GREETING = "Hello from the original Flask release"
+CODE_VERSION = "v2"
+GREETING = "Hello from V2 of the Flask release"
 
 @app.get("/")
 def index():
